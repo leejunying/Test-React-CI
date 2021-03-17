@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+.listquestion {
+  width: 40%;
+}
+
+.answer {
+  width: 20%;
+  margin-top: -1.5%;
+}
+.answer > ul {
+  list-style: none;
+}
+.answer > ul > li {
+  margin-left: 2%;
+}
+
+.btn {
+  width: 20%;
+}
+
+.title {
+  margin: 2%;
+}
+
+.btn {
+  margin-left: 10%;
+}
